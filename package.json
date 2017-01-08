@@ -1,0 +1,22 @@
+{
+  "name": "webpack-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengitiger/webpack-lesson1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengitiger/webpack-lesson1/issues"
+  },
+  "homepage": "https://github.com/bengitiger/webpack-lesson1#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
