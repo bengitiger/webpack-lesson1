@@ -1,1 +1,4 @@
-module.exports = "test script-1"
+const  msg = "test script-1"
+
+
+module.exports = msg;

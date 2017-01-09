@@ -9,3 +9,5 @@
          bundle.js  1.55 kB       0  [emitted]  main
                      [0] ./script-1.js 55 bytes {0} [built]
                      [1] ./script-2.js 34 bytes {0} [built]
+
+4. $ npm install babel-core babel-loader babel-preset-es2015 --save-dev ( http://babeljs.io/ )
