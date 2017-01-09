@@ -13,3 +13,13 @@
 4. $ npm install babel-core babel-loader babel-preset-es2015 --save-dev ( http://babeljs.io/ )
 
 5.  $ npm install style-loader css-loader --save-dev
+
+6.  $ npm install node-sass sass-loader --save-dev
+
+            앞으로 webpack.config.js 파일안에 아래 형식을 그대로 사용할것
+
+            {
+                test: /\.scss$/,
+                loader: 'style-loader!css-loader!sass-loader'
+            }
+            
